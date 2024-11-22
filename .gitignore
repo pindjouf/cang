@@ -1,0 +1,45 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Rust
+/target/
+/debug/
+/release/
+**/*.rs.bk
+**/*.swp
+
+# Dependency Management
+Cargo.lock
+.cargo/
+
+# Build Artifacts
+*.o
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Logs
+*.log
+
+# IDE and Editor Configurations
+/.idea/
+/.vscode/
+/*.iml
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.out
+*.log
+
+# System Files
+*.pyc
+__pycache__/
+*.pyo
+
+# Generated Files
+/target/debug/*
+/target/release/*
