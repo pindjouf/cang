@@ -1,2 +1,1 @@
-pub mod health;
-pub mod contact;
+pub mod style;
