@@ -1,6 +1,6 @@
 # **Cang**
 
-**Cang** is a Text User Interface (TUI) application designed to simplify infrastructure management tasks on Linux servers. It provides an intuitive interface to automate and manage tasks such as virtual machine creation, network configuration, system hardening, and monitoring setup. The goal is to make complex system administration accessible and efficient, following Infrastructure as Code (IaC) principles.
+**Cang** is a Text User Interface (TUI) application designed to simplify infrastructure management tasks on Linux servers. It provides an intuitive interface to automate and manage tasks such as virtual machine creation, network configuration, system hardening, and monitoring setup. It comes with pre-built configs with sensible defaults. The goal is to make complex system administration accessible and efficient, following Infrastructure as Code (IaC) principles.
 
 ---
 
